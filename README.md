@@ -48,4 +48,4 @@ Hands-on Labs & CTFs
    ↓
 Projects
    ↓
-Advanced CybersecurityI have explicit permission.
+Advanced Cybersecurity
