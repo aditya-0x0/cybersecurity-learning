@@ -1,49 +1,51 @@
+# 🛡️ Cybersecurity Learning Journey
 
-# Cybersecurity Learning Portfolio
+> My practical cybersecurity learning journey — from fundamentals to hands-on security labs, tools, and projects.
 
-I am a Class 12 science student building practical cybersecurity skills
-through Linux, networking, programming, CTFs and security labs.
+I'm a student building my cybersecurity skills step by step through
+theory, practical labs, CTFs, courses, scripting, and personal projects.
 
-##  Skills
+This repository is my public learning log where I document what I learn,
+what I practice, what I build, and what I discover along the way.
 
-- Kali Linux
+---
+
+## 🎯 My Goal
+
+My goal is to build strong fundamentals in cybersecurity and gradually
+develop practical skills through hands-on learning.
+
+I'm focusing on:
+
+- Linux & Linux administration
 - Computer Networking
-- Python
-- C++
-- Bash
-- SQL
-- Basic Web Security
-- CTF Problem Solving
+- Programming & Scripting
+- Web Security
+- Security Tools
+- CTFs & Security Labs
+- Vulnerability Assessment
+- Ethical Hacking
+- Cybersecurity Projects
 
-## Practice Platforms
+---
 
-- TryHackMe
-- Hack The Box
-- picoCTF
+## 🗺️ My Learning Path
 
-## Certifications
-
-- LetsUpgrade Cybersecurity Bootcamp Completion
-- Cisco Network Academy: Introduction to Cybersecurity
-- 
-
-## Repository Sections
-
-- Linux notes
-- Networking notes
-- Python security scripts
-- CTF write-ups
-- Cybersecurity projects
-- Learning resources
-
-## Current Goals
-
-- Build original cybersecurity projects
-- Document my practical learning
-- Improve my GitHub portfolio
--
-
-## Ethics
-
-All testing is performed only on personal systems,
-intentionally vulnerable labs, or systems for which I have explicit permission.
+```text
+Linux
+   ↓
+Networking
+   ↓
+Programming & Scripting
+   ↓
+Cybersecurity Fundamentals
+   ↓
+Security Tools
+   ↓
+Web Security
+   ↓
+Hands-on Labs & CTFs
+   ↓
+Projects
+   ↓
+Advanced CybersecurityI have explicit permission.
