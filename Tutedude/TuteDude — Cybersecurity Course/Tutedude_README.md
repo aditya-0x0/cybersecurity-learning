@@ -148,32 +148,7 @@ I am documenting completed assignments here along with:
 
 ---
 
-## 📂 Repository Structure
 
-```text
-Tutedude/
-│
-├── README.md
-│
-├── Module-1/
-├── Module-2/
-├── Module-3/
-├── Module-4/
-├── Module-5/
-└── Module-6/
-```
-
-Each module can contain:
-
-```text
-Module-X/
-├── README.md
-├── Notes/
-├── Assignments/
-└── Practicals/
-```
-
----
 
 ## 🔐 Ethics & Responsible Practice
 
