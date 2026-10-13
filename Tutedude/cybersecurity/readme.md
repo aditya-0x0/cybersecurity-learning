@@ -1,4 +1,5 @@
 TuteDude Cybersecurity Course
+
 Status: Completed — All Lectures and Assignments ✅
 I have successfully completed the Cybersecurity Course from TuteDude, including all course lectures and assignments. This course helped me build a stronger foundation in cybersecurity and understand how security concepts are applied through practical exercises.
 What I Learned
